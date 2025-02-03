@@ -1,1 +1,5 @@
-print("Hello, locked world 1!")
+
+def hello(msg):
+    print(msg)
+
+hello("Hello, locked world 2!")
