@@ -1,1 +1,1 @@
-print("Hello, locked world!")
+print("Hello, locked world 1!")
